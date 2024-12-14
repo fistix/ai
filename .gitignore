@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.history
+node_modules/
+.locks/
+hf_models/
+*.faiss
+*.pkl
